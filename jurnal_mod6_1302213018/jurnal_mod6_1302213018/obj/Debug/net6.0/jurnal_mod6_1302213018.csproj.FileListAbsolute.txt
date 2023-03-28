@@ -1,0 +1,15 @@
+D:\mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\obj\Debug\net6.0\jurnal_mod6_1302213018.csproj.AssemblyReference.cache
+D:\mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\obj\Debug\net6.0\jurnal_mod6_1302213018.GeneratedMSBuildEditorConfig.editorconfig
+D:\mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\obj\Debug\net6.0\jurnal_mod6_1302213018.AssemblyInfoInputs.cache
+D:\mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\obj\Debug\net6.0\jurnal_mod6_1302213018.AssemblyInfo.cs
+D:\mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\obj\Debug\net6.0\jurnal_mod6_1302213018.csproj.CoreCompileInputs.cache
+D:\mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\bin\Debug\net6.0\jurnal_mod6_1302213018.exe
+D:\mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\bin\Debug\net6.0\jurnal_mod6_1302213018.deps.json
+D:\mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\bin\Debug\net6.0\jurnal_mod6_1302213018.runtimeconfig.json
+D:\mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\bin\Debug\net6.0\jurnal_mod6_1302213018.dll
+D:\mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\bin\Debug\net6.0\jurnal_mod6_1302213018.pdb
+D:\mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\obj\Debug\net6.0\jurnal_mod6_1302213018.dll
+D:\mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\obj\Debug\net6.0\refint\jurnal_mod6_1302213018.dll
+D:\mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\obj\Debug\net6.0\jurnal_mod6_1302213018.pdb
+D:\mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\obj\Debug\net6.0\jurnal_mod6_1302213018.genruntimeconfig.cache
+D:\mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\jurnal_mod6_1302213018\obj\Debug\net6.0\ref\jurnal_mod6_1302213018.dll
