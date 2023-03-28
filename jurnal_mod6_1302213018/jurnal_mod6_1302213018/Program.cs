@@ -37,7 +37,16 @@
 
         Console.WriteLine();
         SayaTubeUser user1 = new SayaTubeUser("Herlin Priatna");
+
         user1.AddVideo(video1);
+        user1.AddVideo(video2);
+        user1.AddVideo(video3);
+        user1.AddVideo(video4);
+        user1.AddVideo(video5);
+        user1.AddVideo(video6);
+        user1.AddVideo(video7);
+        user1.AddVideo(video8);
+
         user1.PrintAllVideoPlayCount();
     }
     
